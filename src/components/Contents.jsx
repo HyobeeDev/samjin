@@ -229,7 +229,6 @@ export default function Contents () {
 
   const [count, setCount] = useState([0,0,0,0,0,0,0,0])
 
-
   return (
     <>
       <section className="visual-main">
